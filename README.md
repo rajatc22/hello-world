@@ -1,2 +1,4 @@
 # hello-world
-first git repository
+first repository
+hii, this is rajat choudhary.
+I am working in TCS
